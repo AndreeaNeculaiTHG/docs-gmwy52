@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-y8efnc.clubsporium.tr/sitemap.xml
